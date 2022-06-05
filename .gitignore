@@ -130,3 +130,7 @@ dmypy.json
 
 # IDEs
 .idea/
+
+# Hugging Face
+pytorch_model.bin
+optimizer.pt
