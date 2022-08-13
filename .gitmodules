@@ -1,6 +1,0 @@
-[submodule "Transformers-Tutorials"]
-	path = Transformers-Tutorials
-	url = https://github.com/NielsRogge/Transformers-Tutorials.git
-[submodule "notebooks"]
-	path = notebooks
-	url = https://github.com/huggingface/notebooks.git
